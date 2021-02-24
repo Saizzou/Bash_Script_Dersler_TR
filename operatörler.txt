@@ -1,0 +1,17 @@
+Bilmemiz Gereken Operatörler
+
+&& : ve (and)
+|| : veya (or)
+! : tersi 
+!= : esit degildir
+-gt : büyüktür, sayisal (greater than)
+-lt : kücüktür, sayisal (lesser than)
+-eq : esittir, sayisal (equal) (integer)
+== : esittir, yazi (string)
+
+-d : directory (klasör)
+-f : file (dosya)
+
+-r : read (okuma)
+-w : write(yazma)
+-x : execute (calistirma)
